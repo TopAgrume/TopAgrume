@@ -36,7 +36,7 @@
 📊 &nbsp;[Python for Big Data](https://github.com/xCosmicOtter/bigdata) - Large-scale stock data processing and visualization **(Python)**\
 📝 &nbsp;[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project) - NLP project for poem analysis and creation **(Python)**\
 🎨 &nbsp;[DECOLOR](https://github.com/TopAgrume/decolor) - Image editing and drawing software **(C)**\
-🧩 &nbsp;[OCR Sudoku Solver](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
+🧩 &nbsp;[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
 🎮 &nbsp;[ERASED Website](https://github.com/TopAgrume/erased) - Metroidvania-style game developed with Unity **(C#)**
 
 ### 🏆 &nbsp;Hackathon Achievements
@@ -44,17 +44,9 @@
 🤖 &nbsp;[Mistral AI Hackathon](https://github.com/TopAgrume/mistral_hackathon) - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**
 
 ### 💡 &nbsp;Small Personal Projects
-🛡️ &nbsp;[Safeguard.io](https://github.com/TopAgrume/safeguard.io) - Safety solution for people in difficulty or isolated **(Python)**\
+🛡️ &nbsp;[Safeguard.io](https://github.com/TopAgrume/safeguard.io) - Safety solution for people in difficulty or isolated `soon open source` **(Python)**\
 📝 &nbsp;[Auto Changelogs](https://github.com/TopAgrume/auto_changelog) - Streamlined changelog management across branches **(Bash)**\
 🌡️ &nbsp;[Raspberry Pi Fan Control](https://github.com/TopAgrume/raspberrypi-fan-control) - PWM-based fan control for Raspberry Pi 4B **(Python)**
-
-### 📊 &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/TopAgrume">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TopAgrume&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TopAgrume&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/alexandre-devaux-riviere/"><img src="https://img.shields.io/badge/-Alex%20DR-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
