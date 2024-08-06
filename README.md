@@ -34,8 +34,8 @@
 ### 🎯 &nbsp;Featured Projects
 🚁 &nbsp;[SkyGuards](https://github.com/TopAgrume/SkyGuards) - Real-time crowd density monitoring system using drones **(Scala)**\
 📊 &nbsp;[Python for Big Data](https://github.com/xCosmicOtter/bigdata) - Large-scale stock data processing and visualization **(Python)**\
-📝 &nbsp;[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project) - NLP project for poem analysis and creation **(Python)**\
-🤖 &nbsp;[ML Projects](https://github.com/TopAgrume/ml_projetcs) - Collection of ML notebooks featuring RAY, Optuna, model/data parallelism, and ALS recommender systems, KMeans, PCA **(Python Notebooks)**
+📝 &nbsp;[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project) - NLP project for poem analysis and creation **(Python Notebooks)**\
+🤖 &nbsp;[ML Projects](https://github.com/TopAgrume/ml_projetcs) - Collection of ML notebooks featuring RAY, Optuna, model/data parallelism, and ALS recommender systems, KMeans, PCA **(Python Notebooks)**\
 🎨 &nbsp;[DECOLOR](https://github.com/TopAgrume/decolor) - Image editing and drawing software **(C)**\
 🧩 &nbsp;[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
 🎮 &nbsp;[ERASED Website](https://github.com/TopAgrume/erased) - Metroidvania-style game developed with Unity **(C#)**
