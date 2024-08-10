@@ -38,7 +38,7 @@
 🤖 &nbsp;[ML Projects](https://github.com/TopAgrume/ml_projetcs) - Collection of ML notebooks featuring RAY, Optuna, model/data parallelism, and ALS recommender systems, KMeans, PCA **(Python Notebooks)**\
 🎨 &nbsp;[DECOLOR](https://github.com/TopAgrume/decolor) - Image editing and drawing software **(C)**\
 🧩 &nbsp;[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
-🎮 &nbsp;[ERASED Website](https://github.com/TopAgrume/erased) - Metroidvania-style game developed with Unity **(C#)**
+🎮 &nbsp;[ERASED](https://github.com/Akaagi/Erased) - Metroidvania-style game developed with Unity **(C#)**
 
 ### 🏆 &nbsp;Hackathon Achievements
 🎖️ &nbsp;[French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite) - ResNet18 fine-tuning for car classification **(Python)**\
