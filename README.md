@@ -1,13 +1,13 @@
 
-# 👋 &nbsp;Hey there! I'm Alex DR
+# 👋 &nbsp;Hey there! I'm Alex
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About me
 💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
 🎓 &nbsp;Computer Science & AI student at EPITA.\
 🌱 &nbsp;I'm on track to learn more about big data technologies and deep learning.\
 ✍️ &nbsp;In my free time, I work on personal projects and explore new technologies.
 
-### 🎯 &nbsp;Featured Projects
+### 🎯 &nbsp;Featured projects
 🚁 &nbsp;[SkyGuards](https://github.com/TopAgrume/SkyGuards) - Real-time crowd density monitoring system using drones **(Scala)**\
 📊 &nbsp;[Python for Big Data](https://github.com/xCosmicOtter/bigdata) - Large-scale stock data processing and visualization **(Python)**\
 📝 &nbsp;[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project) - NLP project for poem analysis and creation **(Python Notebooks)**\
@@ -17,23 +17,23 @@
 🧩 &nbsp;[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
 🎮 &nbsp;[ERASED](https://github.com/Akaagi/Erased) - Metroidvania-style game developed with Unity **(C#)**
 
-### 🏆 &nbsp;Hackathon Achievements
+### 🏆 &nbsp;Hackathon achievements
 🎖️ &nbsp;[French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite) - ResNet18 fine-tuning for car classification **(Python)**\
 🤖 &nbsp;[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon) - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
 ⚕️ &nbsp;[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan) AI-powered platform for automating healthcare assessments **(Python, FastAPI, Whisper, Next.js)**
 
-### 💡 &nbsp;Personal Projects
+### 💡 &nbsp;Personal projects
 🛡️ &nbsp;[Safeguard.io](https://github.com/TopAgrume/safeguard.io) - Safety solution for people in difficulty or isolated `recently open-sourced` **(Python)**\
 📝 &nbsp;[Auto Changelogs](https://github.com/TopAgrume/auto_changelog) - Streamlined changelog management across branches **(Bash)**\
 🌡️ &nbsp;[Raspberry Pi Fan Control](https://github.com/TopAgrume/raspberrypi-fan-control) - PWM-based fan control for Raspberry Pi 4B **(Python)**
 
-### Technologies Used
+### Technologies used
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Libraries and Frameworks
+### Libraries and frameworks
 <p align="center">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -50,7 +50,7 @@
 </td>
 <td valign="top" width="50%">
 
-### Tech Stack
+### Tech stack
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
