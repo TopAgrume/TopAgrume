@@ -2,8 +2,8 @@
 # 👋 &nbsp;Hey there! I'm Alex
 
 ### 👨🏻‍💻 &nbsp;About me
-💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
 🎓 &nbsp;Computer Science & AI student at EPITA.\
+💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
 🌱 &nbsp;I'm on track to learn more about big data technologies and deep learning.\
 ✍️ &nbsp;In my free time, I work on personal projects and explore new technologies.
 
