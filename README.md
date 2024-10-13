@@ -18,7 +18,7 @@
 🎮 &nbsp;[ERASED](https://github.com/Akaagi/Erased) - Metroidvania-style game developed with Unity **(C#)**
 
 ### 🏆 &nbsp;Hackathon achievements
-🎖️ &nbsp;[French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite) - ResNet18 fine-tuning for car classification **(Python)**\
+🎖️ &nbsp;[[Finalist] French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite) - ResNet18 fine-tuning for car classification **(Python)**\
 🤖 &nbsp;[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon) - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
 ⚕️ &nbsp;[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan) - AI-powered platform for automating healthcare assessments **(Python, FastAPI, Whisper, Next.js)**
 
