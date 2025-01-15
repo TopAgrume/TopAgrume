@@ -4,23 +4,28 @@
 ### 👨🏻‍💻 &nbsp;About me
 🎓 &nbsp;Computer Science & AI student.\
 💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
-🌱 &nbsp;I'm on track to learn more about big data technologies and deep learning.\
 ✍️ &nbsp;In my free time, I work on personal projects and explore new technologies.
 
-### 🎯 &nbsp;Featured projects
-🚁 &nbsp;[SkyGuards](https://github.com/TopAgrume/SkyGuards) - Real-time crowd density monitoring system using drones **(Scala)**\
-📊 &nbsp;[Python for Big Data](https://github.com/xCosmicOtter/bigdata) - Large-scale stock data processing and visualization **(Python)**\
-📝 &nbsp;[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project) - NLP project for poem analysis and creation **(Python Notebooks)**\
-🤖 &nbsp;[ML Projects](https://github.com/TopAgrume/ml_projetcs) - RAY, Optuna, data/model parallelism, ALS recommender systems, KMeans, PCA **(Python Notebooks)**
+### ✨ &nbsp;Latest projects
+- 🚀 &nbsp;**[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** - Custom neural network implementation with CPU/GPU support (FWD & BWD). **(C++ / CUDA)**
+- 🎥 &nbsp;**[GPGPU](https://github.com/FlorianSegard/GPGPU_Project)** - Video motion estimation project leveraging GPGPU techniques. **(C++ / CUDA)**  
+- 🕹️ &nbsp;**[Breakout RF-AI](https://github.com/TopAgrume/reinforcement_learning_tp4)** - A reinforcement learning project designed to play Atari Breakout. **(Python)**  
+- 🎯 &nbsp;**[MLVOT](https://github.com/TopAgrume/mlvot)** - A multi-object tracking project using Kalman Filters. **(Python)**  
 
-🎨 &nbsp;[DECOLOR](https://github.com/TopAgrume/decolor) - Image editing and drawing software **(C)**\
-🧩 &nbsp;[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP) - Optical Character Recognition for solving Sudoku puzzles **(C)**\
-🎮 &nbsp;[ERASED](https://github.com/Akaagi/Erased) - Metroidvania-style game developed with Unity **(C#)**
+### 🎯 &nbsp;Featured projects
+🚁 &nbsp;**[SkyGuards](https://github.com/TopAgrume/SkyGuards)** - Real-time crowd density monitoring system using drones **(Scala)**\
+📊 &nbsp;**[Python for Big Data](https://github.com/xCosmicOtter/bigdata)** - Large-scale stock data processing and visualization **(Python)**\
+📝 &nbsp;**[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project)** - NLP project for poem analysis and creation **(Python Notebooks)**\
+🤖 &nbsp;**[ML Projects](https://github.com/TopAgrume/ml_projetcs)** - RAY, Optuna, data/model parallelism, ALS recommender systems, KMeans, PCA **(Python Notebooks)**
+
+🎨 &nbsp;**[DECOLOR](https://github.com/TopAgrume/decolor)** - Image editing and drawing software **(C)**\
+🧩 &nbsp;**[OCR Sudoku Solver Website](https://github.com/TopAgrume/OCR_LMP)** - Optical Character Recognition for solving Sudoku puzzles **(C)**\
+🎮 &nbsp;**[ERASED](https://github.com/Akaagi/Erased)** - Metroidvania-style game developed with Unity **(C#)**
 
 ### 🏆 &nbsp;Hackathon achievements
-🎖️ &nbsp;[[Finalist] French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite) - ResNet18 fine-tuning for car classification **(Python)**\
-🤖 &nbsp;[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon) - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
-⚕️ &nbsp;[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan) - AI-powered platform for automating healthcare assessments **(Python, FastAPI, Whisper, Next.js)**
+🎖️ &nbsp;**[[Finalist] French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite)** - ResNet18 fine-tuning for car classification **(Python)**\
+🤖 &nbsp;**[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon)** - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
+⚕️ &nbsp;**[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan)** - AI-powered platform for automating healthcare assessments **(Python, FastAPI, Whisper, Next.js)**
 
 ### 💡 &nbsp;Personal projects
 🛡️ &nbsp;[Safeguard.io](https://github.com/TopAgrume/safeguard.io) - Safety solution for people in difficulty or isolated `recently open-sourced` **(Python)**\
@@ -58,6 +63,7 @@
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
