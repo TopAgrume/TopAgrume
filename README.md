@@ -25,12 +25,12 @@
 ### 🏆 &nbsp;Hackathon achievements
 🎖️ &nbsp;**[[Finalist] French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite)** - ResNet18 fine-tuning for car classification **(Python)**\
 🤖 &nbsp;**[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon)** - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
-⚕️ &nbsp;**[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan)** - AI-powered platform for automating healthcare assessments **(Python, FastAPI, Whisper, Next.js)**
+⚕️ &nbsp;**[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan)** - AI-powered platform for automating healthcare assessments **(Python, Next.js)**
 
 ### 💡 &nbsp;Personal projects
-🛡️ &nbsp;[Safeguard.io](https://github.com/TopAgrume/safeguard.io) - Safety solution for people in difficulty or isolated `recently open-sourced` **(Python)**\
-📝 &nbsp;[Auto Changelogs](https://github.com/TopAgrume/auto_changelog) - Streamlined changelog management across branches **(Bash)**\
-🌡️ &nbsp;[Raspberry Pi Fan Control](https://github.com/TopAgrume/raspberrypi-fan-control) - PWM-based fan control for Raspberry Pi 4B **(Python)**
+🛡️ &nbsp;**[Safeguard.io](https://github.com/TopAgrume/safeguard.io)** - Safety solution for people in difficulty or isolated `recently open-sourced` **(Python)**\
+📝 &nbsp;**[Auto Changelogs](https://github.com/TopAgrume/auto_changelog)** - Streamlined changelog management across branches **(Bash)**\
+🌡️ &nbsp;**[Raspberry Pi Fan Control](https://github.com/TopAgrume/raspberrypi-fan-control)** - PWM-based fan control for Raspberry Pi 4B **(Python)**
 
 ### Technologies used
 
