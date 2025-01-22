@@ -2,15 +2,16 @@
 # 👋 &nbsp;Hey there! I'm Alex
 
 ### 👨🏻‍💻 &nbsp;About me
-🎓 &nbsp;Computer Science & AI student.\
+🎓 &nbsp;Computer Science & AI student at EPITA.\
 💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
 ✍️ &nbsp;In my free time, I work on personal projects and explore new technologies.
 
 ### ✨ &nbsp;Latest projects
-- 🚀 &nbsp;**[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** - Custom neural network implementation with CPU/GPU support (FWD & BWD). **(C++ / CUDA)**
-- 🎥 &nbsp;**[GPGPU](https://github.com/FlorianSegard/GPGPU_Project)** - Video motion estimation project leveraging GPGPU techniques. **(C++ / CUDA)**  
+- 🧠 &nbsp;**[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** - Custom neural network implementation with CPU/GPU support (FWD & BWD). **(C++ / CUDA)**
+- 🎞️ &nbsp;**[GPGPU](https://github.com/FlorianSegard/GPGPU_Project)** - Video motion estimation project leveraging GPGPU techniques. **(C++ / CUDA)**  
 - 🕹️ &nbsp;**[Breakout RF-AI](https://github.com/TopAgrume/reinforcement_learning_tp4)** - A reinforcement learning project designed to play Atari Breakout. **(Python)**  
-- 🎯 &nbsp;**[MLVOT](https://github.com/TopAgrume/mlvot)** - A multi-object tracking project using Kalman Filters. **(Python)**  
+- 🎯 &nbsp;**[MLVOT](https://github.com/TopAgrume/mlvot)** - A multi-object tracking project using Kalman Filters. **(Python)**
+- 🕸️ &nbsp;**[I-JEPA](https://github.com/DjDonPablo/I-JEPA)** - I-JEPA (Joint Embedding Predictive Architecture) self-supervised learning model implementation (Meta). **(Python)**  
 
 ### 🎯 &nbsp;Featured projects
 🚁 &nbsp;**[SkyGuards](https://github.com/TopAgrume/SkyGuards)** - Real-time crowd density monitoring system using drones **(Scala)**\
