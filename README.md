@@ -21,7 +21,7 @@
 
 ### 🎯 &nbsp;Featured projects
 🚁 &nbsp;**[SkyGuards](https://github.com/TopAgrume/SkyGuards)** - Real-time crowd density monitoring system using drones **(Scala)**\
-📊 &nbsp;**[Python for Big Data](https://github.com/xCosmicOtter/bigdata)** - Large-scale stock data processing and visualization **(Python)**\
+📊 &nbsp;**[Python for Big Data](https://github.com/xCosmicOtter/bigdata)** - Large-scale stock data processing and visualization **(Pandas, Plotly, Dash)**\
 📝 &nbsp;**[Poem Classification and Generation](https://github.com/TopAgrume/NLP_Project)** - NLP project for poem analysis and creation **(Python Notebooks)**\
 🤖 &nbsp;**[ML Projects](https://github.com/TopAgrume/ml_projetcs)** - RAY, Optuna, data/model parallelism, ALS recommender systems, KMeans, PCA **(Python Notebooks)**
 
@@ -30,7 +30,7 @@
 🎮 &nbsp;**[ERASED](https://github.com/Akaagi/Erased)** - Metroidvania-style game developed with Unity **(C#)**
 
 ### 💡 &nbsp;Personal projects
-🛡️ &nbsp;**[Safeguard.io](https://github.com/TopAgrume/safeguard.io)** - Safety solution for people in difficulty or isolated **(Python)**\
+🛡️ &nbsp;**[Safeguard.io](https://github.com/TopAgrume/safeguard.io)** - Safety solution for people in difficulty or isolated **(Python, SQL)**\
 📝 &nbsp;**[Auto Changelogs](https://github.com/TopAgrume/auto_changelog)** - Streamlined changelog management across branches **(Bash)**\
 🌡️ &nbsp;**[Raspberry Pi Fan Control](https://github.com/TopAgrume/raspberrypi-fan-control)** - PWM-based fan control for Raspberry Pi 4B **(Python)**
 
