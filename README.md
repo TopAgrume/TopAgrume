@@ -14,7 +14,7 @@
 - 🕸️ &nbsp;**[I-JEPA](https://github.com/DjDonPablo/I-JEPA)** - I-JEPA (Joint Embedding Predictive Architecture) self-supervised learning model implementation (Meta). **(PyTorch)**  
 
 ### 🏆 &nbsp;Hackathon achievements
-🎖️ &nbsp;**[[Finalist] PINKCC Lab Medical Imaging Challenge (10 weeks)](https://github.com/TopAgrume/PINKCC_challenge_2025)** - DL solution for 3D CT scan segmentation of ovarian cancer **(PyTorch)**\
+🎗️ &nbsp;**[[Finalist] PINKCC Lab Medical Imaging Challenge (10 weeks)](https://github.com/TopAgrume/PINKCC_challenge_2025)** - DL solution for 3D CT scan segmentation of ovarian cancer **(PyTorch)**\
 🎖️ &nbsp;**[[Finalist] French Ministry of the Armed Forces Hackathon](https://github.com/Maxime-Buisson/groupe2-6miliarite)** - ResNet18 fine-tuning for car classification **(PyTorch)**\
 🤖 &nbsp;**[Mistral AI Hackathon - ASCII Art](https://github.com/TopAgrume/mistral_hackathon)** - Fine-tuned Mistral-7b model for ASCII art generation via Discord bot **(Python)**\
 ⚕️ &nbsp;**[Mistral AI Hackathon - Hygie.ia](https://github.com/ClovisDyArx/hackaton_mistral_alan)** - AI-powered platform for automating healthcare assessments **(Python, Next.js)**
