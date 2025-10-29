@@ -2,7 +2,7 @@
 # 👋 &nbsp;Hey there! I'm Alex
 
 ### 👨🏻‍💻 &nbsp;About me
-🎓 &nbsp;Computer Science & AI student at EPITA.\
+🎓 &nbsp;Mathematics student at ENS Paris-Saclay (Ex Computer Science & AI student at EPITA).\
 💡 &nbsp;I'm passionate about machine learning, deep learning, and data/software engineering.\
 ✍️ &nbsp;In my free time, I work on personal projects and explore new technologies.
 
