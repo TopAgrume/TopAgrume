@@ -17,6 +17,7 @@
 ### ✨ &nbsp;Latest Projects
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 📉 **[Stochastic FISTA](https://github.com/TopAgrume/Stochastic_FISTA)** | Stochastic accelerated proximal optimization algorithm implementation. | `Python` |
 | 🧩 **[DVLWDL](https://github.com/mva-ii/Discriminative-Dictionary-Learning-for-Time-Series-Classification)** | Discriminative dictionary learning for time series classification. | `Python` |
 | 🧠 **[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** | Custom neural network implementation with CPU/GPU support (FWD & BWD). | `C++` `CUDA` |
 | 🎞️ **[GPGPU](https://github.com/FlorianSegard/GPGPU_Project)** | Video motion estimation project leveraging GPGPU techniques. | `C++` `CUDA` |
