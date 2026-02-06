@@ -29,7 +29,8 @@
 
 | Event | Project & Outcome | Stack |
 | :--- | :--- | :--- |
-| 🎗️ **[PINKCC Lab Challenge](https://github.com/TopAgrume/PINKCC_challenge_2025)** | **[Finalist]** DL for 3D CT scan segmentation of ovarian cancer (10 weeks). | `PyTorch` |
+| 🎗️ **[PINKCC Challenge 2026](...)** | (Incoming) DL for 3D CT scan segmentation of pancreatic cancer (10 weeks). | `PyTorch` |
+| 🎗️ **[PINKCC Challenge 2025](https://github.com/TopAgrume/PINKCC_challenge_2025)** | **[Finalist]** DL for 3D CT scan segmentation of ovarian cancer (10 weeks). | `PyTorch` |
 | 🎖️ **[French Armed Forces](https://github.com/Maxime-Buisson/groupe2-6miliarite)** | **[Finalist]** ResNet18 fine-tuning for classification, leveraging XAI. | `PyTorch` |
 | 🤖 **[Mistral AI Hackathon](https://github.com/TopAgrume/mistral_hackathon)** | **[ASCII Art]** Fine-tuned Mistral-7b model for ASCII art generation. | `Python` |
 | ⚕️ **[Mistral AI Hackathon](https://github.com/ClovisDyArx/hackaton_mistral_alan)** | **[Hygie.ia]** AI-powered platform for automating healthcare assessments. | `Next.js` |
