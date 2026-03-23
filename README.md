@@ -17,7 +17,7 @@
 ### ✨ &nbsp;Latest Projects
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🌌 **[Point Transformer](https://github.com/TopAgrume/point-transformer)** | Point Transformer implementation and ablation study for 3D point cloud shape classification. | `PyTorch` |
+| 🌌 **[Point Transformer](https://github.com/TopAgrume/point-transformer)** | Point Transformer implementation and ablation study for 3D shape classification. | `PyTorch` |
 | 📉 **[Stochastic FISTA](https://github.com/TopAgrume/Stochastic_FISTA)** | Stochastic accelerated proximal optimization algorithm implementation. | `Python` |
 | 🧩 **[DVLWDL](https://github.com/mva-ii/Discriminative-Dictionary-Learning-for-Time-Series-Classification)** | Discriminative dictionary learning for time series classification. | `Python` |
 | 🧠 **[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** | Custom neural network implementation with CPU/GPU support (FWD & BWD). | `C++` `CUDA` |
