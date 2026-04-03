@@ -17,7 +17,7 @@
 ### ✨ &nbsp;Latest Projects
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🌍 **[Change Detection](https://github.com/RomainCrgnl/ProjetTAMRFSITS_RemoteSensingMVA)** | Predictive change detection on Sentinel-2 satellite time series images. | `Python` |
+| 🌍 **[Change Detection](https://github.com/RomainCrgnl/ProjetTAMRFSITS_RemoteSensingMVA)** | Predictive change detection on Sentinel-2 satellite time series with TAMRFSITS. | `PyTorch` |
 | 🌌 **[Point Transformer](https://github.com/TopAgrume/point-transformer)** | Point Transformer implementation and ablation study for 3D shape classification. | `PyTorch` |
 | 📉 **[Stochastic FISTA](https://github.com/TopAgrume/Stochastic_FISTA)** | Stochastic accelerated proximal optimization algorithm implementation. | `Python` |
 | 🧩 **[DVLWDL](https://github.com/mva-ii/Discriminative-Dictionary-Learning-for-Time-Series-Classification)** | Discriminative dictionary learning for time series classification. | `Python` |
