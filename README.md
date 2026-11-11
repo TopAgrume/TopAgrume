@@ -21,7 +21,6 @@
 | 🌌 **[Point Transformer](https://github.com/TopAgrume/point-transformer)** | Point Transformer implementation and ablation study for 3D shape classification. | `PyTorch` |
 | 🧠 **[Cuda Neural Network](https://github.com/FlorianSegard/CudaNeuralNetwork)** | Custom neural network implementation with CPU/GPU support (FWD & BWD). | `C++` `CUDA` |
 | 🎞️ **[GPGPU](https://github.com/FlorianSegard/GPGPU_Project)** | Video motion estimation project leveraging GPGPU techniques. | `C++` `CUDA` |
-| 🕹️ **[Atari Rainbow DQN](https://github.com/TopAgrume/Atari-Rainbow-DQN)** | A reinforcement learning project designed to play Atari Breakout. | `PyTorch` |
 | 🎯 **[MLVOT](https://github.com/TopAgrume/mlvot)** | Multi-object tracking using Kalman Filters. | `PyTorch` |
 | 🕸️ **[I-JEPA](https://github.com/DjDonPablo/I-JEPA)** | Implementation of Meta's Joint Embedding Predictive Architecture. | `PyTorch` |
 
